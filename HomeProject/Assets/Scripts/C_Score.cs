@@ -2,18 +2,20 @@ using UnityEngine;
 
 public class C_Score : MonoBehaviour
 {
-    float PL1Health=100;
-    float PL2Health=100;
-    
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public float player1Hp = 100f;
+    public float player2Hp = 100f;
 
-    // Update is called once per frame
-    void Update()
+    public void TakeDamage(bool isPlayer1, float damage)
     {
-        
+        if (isPlayer1)
+        {
+            player1Hp -= damage;
+            player1Hp = Mathf.Max(player1Hp, 0f);
+        }
+        else
+        {
+            player2Hp -= damage;
+            player2Hp = Mathf.Max(player2Hp, 0f);
+        }
     }
 }
