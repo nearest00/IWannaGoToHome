@@ -18,11 +18,7 @@ public class D_CamZoom : MonoBehaviour
     void Update()
     {
         virtualCamera.Lens.FieldOfView =
-            Mathf.Lerp(
-                virtualCamera.Lens.FieldOfView,
-                targetFOV,
-                Time.deltaTime * zoomSpeed
-            );
+            Mathf.Lerp(virtualCamera.Lens.FieldOfView, targetFOV, Time.deltaTime * zoomSpeed);
         if (Mathf.Abs(virtualCamera.Lens.FieldOfView - targetFOV) < 0.01f)
         {
             virtualCamera.Lens.FieldOfView = targetFOV;

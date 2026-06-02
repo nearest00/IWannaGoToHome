@@ -15,7 +15,6 @@ public class D_PLMove : MonoBehaviour
     }
     public void OnMoveMent(InputValue value)
     {
-        inputVector = value.Get<Vector2>();
-        Debug.Log(inputVector);
+        inputVector = value.Get<Vector2>(); 
     }
 }
