@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jinni\\onedrive\\desktop\\homeproject\\iwannagotohome\\homeproject\\assets\\scripts\\c_score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\c_score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\D_TrailDrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\D_TrailDrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jinni\\onedrive\\desktop\\homeproject\\iwannagotohome\\homeproject\\assets\\scripts\\c_camzoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\c_camzoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jinni\\onedrive\\desktop\\homeproject\\iwannagotohome\\homeproject\\assets\\scripts\\c_scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\c_scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jinni\\onedrive\\desktop\\homeproject\\iwannagotohome\\homeproject\\assets\\scripts\\d_camzoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jinni\\onedrive\\desktop\\homeproject\\iwannagotohome\\homeproject\\assets\\scripts\\d_plmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\d_plmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jinni\\onedrive\\desktop\\homeproject\\iwannagotohome\\homeproject\\assets\\scripts\\c_gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\c_gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jinni\\onedrive\\desktop\\homeproject\\iwannagotohome\\homeproject\\assets\\scripts\\c_scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\c_scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "C_GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\C_GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\C_GameManager.cs",
+              "ToolTip": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\C_GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\C_GameManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T00:27:14.264Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -40,13 +56,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\C_CamZoom.cs",
               "ToolTip": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\C_CamZoom.cs",
               "RelativeToolTip": "Assets\\Scripts\\C_CamZoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T12:20:14.439Z"
+              "WhenOpened": "2026-05-30T12:20:14.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "C_SceneChange.cs",
               "DocumentMoniker": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\C_SceneChange.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\C_SceneChange.cs",
@@ -58,39 +75,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "D_CamZoom.cs",
               "DocumentMoniker": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\D_CamZoom.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\D_CamZoom.cs",
               "ToolTip": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\D_CamZoom.cs",
               "RelativeToolTip": "Assets\\Scripts\\D_CamZoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-30T11:31:22.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "D_PLMove.cs",
               "DocumentMoniker": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\D_PLMove.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\D_PLMove.cs",
               "ToolTip": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\D_PLMove.cs",
               "RelativeToolTip": "Assets\\Scripts\\D_PLMove.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-30T09:48:19.9Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "C_Score.cs",
-              "DocumentMoniker": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\C_Score.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\C_Score.cs",
-              "ToolTip": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\C_Score.cs",
-              "RelativeToolTip": "Assets\\Scripts\\C_Score.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Title": "D_TrailDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\D_TrailDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\D_TrailDrawer.cs",
+              "ToolTip": "C:\\Users\\Jinni\\OneDrive\\Desktop\\HomeProject\\IWannaGoToHome\\HomeProject\\Assets\\Scripts\\D_TrailDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\D_TrailDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T07:04:16.186Z",
+              "WhenOpened": "2026-06-14T12:46:20.018Z",
               "EditorCaption": ""
             }
           ]

@@ -8,21 +8,35 @@ public class D_CamZoom : MonoBehaviour
     public float startFOV = 100f;
     public float targetFOV = 40f;
     public float zoomSpeed = 1f;
-    public bool isZooming = true; //카메라 줌 진행 상태(캐릭터 상호작용 차단)
 
-    void Start()
+    private bool zoomFinished;
+
+    private void Start()
     {
         virtualCamera.Lens.FieldOfView = startFOV;
+
+        // 줌 시작 → 입력 잠금
+        D_InputLockManager.Lock();
     }
 
-    void Update()
+    private void Update()
     {
+        if (zoomFinished)
+            return;
+
         virtualCamera.Lens.FieldOfView =
-            Mathf.Lerp(virtualCamera.Lens.FieldOfView, targetFOV, Time.deltaTime * zoomSpeed);
+            Mathf.Lerp(
+                virtualCamera.Lens.FieldOfView,
+                targetFOV,
+                Time.deltaTime * zoomSpeed);
+
         if (Mathf.Abs(virtualCamera.Lens.FieldOfView - targetFOV) < 0.01f)
         {
             virtualCamera.Lens.FieldOfView = targetFOV;
-            isZooming = false;
+            zoomFinished = true;
+
+            // 줌 끝 → 입력 해제
+            D_InputLockManager.Unlock();
         }
     }
 }
